@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_suite">
+    <sys_atf_test_suite action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <input_filter/>
+        <name>CICDDemo</name>
+        <parent/>
+        <sys_class_name>sys_atf_test_suite</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-26 07:15:02</sys_created_on>
+        <sys_id>ee069c4c2cf38d107f44434bc547c387</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CICDDemo</sys_name>
+        <sys_package display_value="CICD DemoApp" source="x_snc_cicd_demoapp">d56e80c42cf38d107f44434bc547c3f1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CICD DemoApp">d56e80c42cf38d107f44434bc547c3f1</sys_scope>
+        <sys_update_name>sys_atf_test_suite_ee069c4c2cf38d107f44434bc547c387</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-26 07:15:02</sys_updated_on>
+    </sys_atf_test_suite>
+</record_update>
