@@ -12,19 +12,19 @@ Demo.prototype = {
     initialize: function() {
     },
 
-    type: 'SI Demo'
+    type: 'SI Demoss'
 };]]></script>
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-05-26 08:14:01</sys_created_on>
         <sys_id>117368082c378d107f44434bc547c32c</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>SI Demo</sys_name>
         <sys_package display_value="CICD DemoApp" source="x_snc_cicd_demoapp">d56e80c42cf38d107f44434bc547c3f1</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="CICD DemoApp">d56e80c42cf38d107f44434bc547c3f1</sys_scope>
         <sys_update_name>sys_script_include_117368082c378d107f44434bc547c32c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-05-26 08:14:01</sys_updated_on>
+        <sys_updated_on>2022-05-26 13:17:45</sys_updated_on>
     </sys_script_include>
 </record_update>
