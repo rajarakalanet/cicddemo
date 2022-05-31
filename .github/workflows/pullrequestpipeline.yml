@@ -23,7 +23,7 @@ jobs:
         env:
           nowUsername: GitHub.pipeline
           nowPassword: SecretP4ssW@rd
-          nowSourceInstance: nowlearning-nlinst00092914-dev-001.lab.service-now.com
+          nowSourceInstance: nowlearning-nlinst00092914-dev-001.lab
           appSysID: d56e80c42cf38d107f44434bc547c3f1
 
       - name: ServiceNow CI/CD Publish App
@@ -38,7 +38,7 @@ jobs:
         env:
           nowUsername: GitHub.pipeline
           nowPassword: SecretP4ssW@rd
-          nowSourceInstance: nowlearning-nlinst00092914-dev-001.lab.service-now.com
+          nowSourceInstance: nowlearning-nlinst00092914-dev-001.lab
           appSysID: d56e80c42cf38d107f44434bc547c3f1
           
     # This is required to pass the version number output from Publish App 
