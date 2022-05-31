@@ -31,7 +31,7 @@ jobs:
         uses: ServiceNow/sncicd-publish-app@2.0.1
         with:
           versionTemplate: 1.1
-          #versionFormat: template
+          versionFormat: template
           # Optional, add +X to version number. Default: 1 
           # incrementBy: X
           
