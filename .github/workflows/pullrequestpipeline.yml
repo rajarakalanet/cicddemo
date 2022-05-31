@@ -29,12 +29,12 @@ jobs:
       - name: ServiceNow CI/CD Publish App
         id: publish_app
         uses: ServiceNow/sncicd-publish-app@2.0.1
-        with:
+        #with:
           #versionTemplate: 1.1
           #versionFormat: template
           # Optional, add +X to version number. Default: 1 
           # incrementBy: X
-          versionFormat: detect
+          
         env:
           nowUsername: GitHub.pipeline
           nowPassword: SecretP4ssW@rd
